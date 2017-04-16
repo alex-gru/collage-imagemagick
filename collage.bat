@@ -1,4 +1,4 @@
-# based on the blog-question found here: http://www.imagemagick.org/discourse-server/viewtopic.php?t=16249
+REM based on the blog-question found here: http://www.imagemagick.org/discourse-server/viewtopic.php?t=16249
 set SRC=input/
 del *.png
 
